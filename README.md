@@ -16,10 +16,8 @@ Sou um estudante de desenvolvimento Fullstack apaixonado por tecnologia e por cr
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=paulotm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulotm&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulotm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/paulotm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulotm&layout=compact&langs_count=7&theme=dracula)](https://github.com/paulotm)
 
 ## 📫 Como entrar em contato comigo
 
