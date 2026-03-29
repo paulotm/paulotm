@@ -13,7 +13,6 @@ Sou um estudante de desenvolvimento Fullstack apaixonado por tecnologia e por cr
 
 * **Front-end:** HTML5, CSS3, Javascript
 * **Ferramentas:** Git, GitHub, VS Code
-*(Conforme você for aprendendo Javascript, React, Node, etc., basta ir adicionando aqui!)*
 
 ## 📊 Estatísticas do GitHub
 
@@ -24,8 +23,8 @@ Sou um estudante de desenvolvimento Fullstack apaixonado por tecnologia e por cr
 
 ## 📫 Como entrar em contato comigo
 
-- **LinkedIn:** [Acesse meu perfil](www.linkedin.com/in/paulohenriqueslima)
-- **E-mail:** [seu-email@exemplo.com](mailto:paulo574henrique@gmail.com)
+- **LinkedIn:** [paulohenriquehslima](www.linkedin.com/in/paulohenriqueslima)
+- **E-mail:** [paulo574henrique@gmail.com](paulo574henrique@gmail.com)
 
 ---
 ⭐️ *Obrigado por visitar meu perfil! Sinta-se à vontade para dar uma olhada nos meus repositórios.*
