@@ -11,11 +11,6 @@ Sou um estudante de desenvolvimento Fullstack apaixonado por tecnologia e por cr
 
 ## 💻 Minhas Habilidades
 
-* **Front-end:** HTML5, CSS3, Javascript
-* **Ferramentas:** Git, GitHub, VS Code
-
-## 💻 Minhas Habilidades
-
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
