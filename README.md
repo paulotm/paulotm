@@ -25,8 +25,7 @@ Sou um estudante de desenvolvimento Fullstack apaixonado por tecnologia e por cr
 
 ## 📫 Como entrar em contato comigo
 
-- **LinkedIn:** [paulohenriquehslima](www.linkedin.com/in/paulohenriqueslima)
-- **E-mail:** [paulo574henrique@gmail.com](paulo574henrique@gmail.com)
-
+- **LinkedIn:** [paulohenriquehslima](https://www.linkedin.com/in/paulohenriqueslima)
+- **E-mail:** [paulo574henrique@gmail.com](mailto:paulo574henrique@gmail.com)
 ---
 ⭐️ *Obrigado por visitar meu perfil! Sinta-se à vontade para dar uma olhada nos meus repositórios.*
