@@ -14,10 +14,19 @@ Sou um estudante de desenvolvimento Fullstack apaixonado por tecnologia e por cr
 * **Front-end:** HTML5, CSS3, Javascript
 * **Ferramentas:** Git, GitHub, VS Code
 
-## 📊 Estatísticas do GitHub
+## 💻 Minhas Habilidades
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulotm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/paulotm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulotm&layout=compact&langs_count=7&theme=dracula)](https://github.com/paulotm)
+<div>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</div>
+<br>
+<div>
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</div>
 
 ## 📫 Como entrar em contato comigo
 
