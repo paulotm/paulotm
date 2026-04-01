@@ -25,7 +25,7 @@ I am a Fullstack development student passionate about technology and creating so
 
 ## 📫 How to reach me
 
-- **LinkedIn:** [paulohenriquehslima](https://www.linkedin.com/in/paulotm)
+- **LinkedIn:** [paulotm](https://www.linkedin.com/in/paulotm)
 - **E-mail:** [paulo574henrique@gmail.com](mailto:paulo574henrique@gmail.com)
 
 ---
