@@ -1,15 +1,15 @@
-# Olá, eu sou o Paulo Henrique! 👋
+# Hi, I'm Paulo Henrique! 👋
 
-Sou um estudante de desenvolvimento Fullstack apaixonado por tecnologia e por criar soluções através do código. Atualmente, estou focado em construir uma base sólida em programação, desenvolvendo projetos práticos e aprendendo um pouco mais todos os dias.
+I am a Fullstack development student passionate about technology and creating solutions through code. Currently, I am focused on building a solid foundation in programming by developing practical projects and learning a little more every day.
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-- 🎓 Estudando Desenvolvimento Web Fullstack.
-- 🌱 Atualmente praticando e aprimorando: **HTML, CSS e lógica de programação**.
-- 💡 Buscando sempre melhorar a qualidade do meu código e entender as melhores práticas do mercado.
-- 🎯 Meu grande objetivo é me tornar um desenvolvedor completo e atuar profissionalmente na área de tecnologia.
+- 🎓 Studying Fullstack Web Development.
+- 🌱 Currently practicing and improving: **HTML, CSS, and programming logic**.
+- 💡 Always looking to improve the quality of my code and understand the best market practices.
+- 🎯 My main goal is to become a complete developer and work professionally in the tech industry.
 
-## 💻 Minhas Habilidades
+## 💻 My Skills
 
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -23,9 +23,10 @@ Sou um estudante de desenvolvimento Fullstack apaixonado por tecnologia e por cr
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
-## 📫 Como entrar em contato comigo
+## 📫 How to reach me
 
 - **LinkedIn:** [paulohenriquehslima](https://www.linkedin.com/in/paulohenriqueslima)
 - **E-mail:** [paulo574henrique@gmail.com](mailto:paulo574henrique@gmail.com)
+
 ---
-⭐️ *Obrigado por visitar meu perfil! Sinta-se à vontade para dar uma olhada nos meus repositórios.*
+⭐️ *Thanks for visiting my profile! Feel free to take a look at my repositories.*
