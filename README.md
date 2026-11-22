@@ -1,32 +1,36 @@
-# Hi, I'm Paulo Henrique! 👋
+# Olá, eu sou o Paulo Henrique! 👋
 
-I am a Fullstack development student passionate about technology and creating solutions through code. Currently, I am focused on building a solid foundation in programming by developing practical projects and learning a little more every day.
+Sou estudante concluinte de **Engenharia da Computação**, apaixonado por desenvolvimento de software e pela construção de soluções backend sólidas. Atualmente, estou focado em fortalecer minha base em **Java**, **Programação Orientada a Objetos (POO)** e **SQL**, desenvolvendo projetos práticos e me preparando para minha transição para a engenharia de software.
 
-## 🚀 About me
+### 🚀 Sobre mim
 
-- 🎓 Studying Fullstack Web Development.
-- 🌱 Currently practicing and improving: **HTML, CSS, and programming logic**.
-- 💡 Always looking to improve the quality of my code and understand the best market practices.
-- 🎯 My main goal is to become a complete developer and work professionally in the tech industry.
+- 🎓 Concluindo graduação em **Engenharia da Computação** (Dezembro/2026).
+- ☕ Atualmente estudando e praticando: **Java, Programação Orientada a Objetos (POO), Collections e Spring Boot**.
+- 🗄️ Construindo uma base sólida em **APIs REST**, **bancos de dados SQL** e boas práticas de código limpo.
+- 🎯 Meu objetivo principal é atuar profissionalmente como **Desenvolvedor Software Backend / Java**.
 
-## 💻 My Skills
+### 💻 Minhas Habilidades
 
-<div>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-</div>
-<br>
-<div>
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
+**Core & Backend:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📫 How to reach me
+**Fundamentos Web:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Ferramentas & IDEs:**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### 📫 Como falar comigo
 
 - **LinkedIn:** [paulotm](https://www.linkedin.com/in/paulotm)
-- **E-mail:** [paulo574henrique@gmail.com](mailto:paulo574henrique@gmail.com)
+- **E-mail:** paulo574henrique@gmail.com
 
 ---
-⭐️ *Thanks for visiting my profile! Feel free to take a look at my repositories.*
+⭐ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e projetos em Java.*
