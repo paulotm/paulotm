@@ -1,6 +1,6 @@
 # Olá, eu sou o Paulo Henrique! 👋
 
-Sou estudante concluinte de **Engenharia da Computação**, apaixonado por desenvolvimento de software e pela construção de soluções backend sólidas. Atualmente, estou focado em fortalecer minha base em **Java**, **Programação Orientada a Objetos (POO)** e **SQL**, desenvolvendo projetos práticos e me preparando para minha transição para a engenharia de software.
+Profissional de Engenharia da Computação, apaixonado por desenvolvimento de software e pela construção de soluções backend sólidas. Atualmente, estou focado em fortalecer minha base em Java, Programação Orientada a Objetos (POO) e SQL, desenvolvendo projetos práticos para atuar na engenharia de software.
 
 ### 🚀 Sobre mim
 
